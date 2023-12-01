@@ -1,4 +1,4 @@
-![hello-world](./image/hello_world.png)
+![hello-world](./image/HelloWorld.png)
 
 ### Hi there 👋
 
