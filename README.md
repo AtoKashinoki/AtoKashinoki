@@ -1,4 +1,4 @@
-![hello-world](https://www.canva.com/design/DAF1vQcpeDY/B2JusEJ-wcazJVC6VRhOvA/view?utm_content=DAF1vQcpeDY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![hello-world](./image/hello_world.png)
 
 ### Hi there 👋
 
